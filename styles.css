@@ -1,0 +1,98 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+html{
+    height: 100%;
+    background-image: url(Media/mainbackground.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+h1, h3, p, a{
+
+    font-family: monospace, 'Courier New', Courier;
+
+}
+
+
+#head{
+
+    display: flex;
+    background-image: linear-gradient(
+        to top, transparent, #4d4d4d
+      );
+    width: 100%;
+    justify-content: center;
+
+}
+
+#logo{
+    height: 200px;
+    width: auto;
+}
+
+
+.flex{
+
+    display: flex;
+    justify-content: center;
+
+}
+
+#main{
+
+    background-image: url(Media/achievementbackground.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: #1d1d1d;
+    width: fit-content;
+    padding: 1%;
+    margin: auto;
+    
+}
+
+#topTextDiv{
+
+    background-color: rgb(54, 54, 54);
+    margin: auto;
+    padding: 1%;
+    flex-direction: column;
+
+}
+
+.bodyText{
+
+    color: whitesmoke;
+
+}
+
+#gifs{
+
+    padding-top: 2%;
+    padding-bottom: 2%;
+    flex-wrap: wrap;
+    column-gap: 5px;
+
+}
+
+#bottomTextDiv{
+
+    margin: auto;
+
+}
+
+#bottomTextHighlight{
+    background-color: rgb(54, 54, 54);
+    padding: 1%;
+    flex-direction: column;
+}
+
+
+.footerText{
+
+    color: whitesmoke;
+    text-align: center;
+
+}
