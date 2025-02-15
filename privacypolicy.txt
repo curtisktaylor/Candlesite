@@ -1,0 +1,21 @@
+Candledrop privacy policy
+
+
+This app uses Google AdMob for Unity, version 23.6.0. Any data collection that happens in this app is done by AdMob.
+Data that is collected may include the following:
+
+IP address - Collects device's IP address, which may be used to estimate the general location of a device.
+User product interactions - Collects user product interactions and interaction information, including app launch, taps, and video views.
+Diagnostic information - Collects information related to the performance of your app and the SDK, including crash logs, app launch time, hang rate, and energy usage.
+Device and Account identifiers - Collects Android advertising (ad) ID, app set ID, and, if applicable, other identifiers related to signed-in accounts on the device.
+
+
+You can view what data AdMob collects for its most recent version by visiting this link:
+https://developers.google.com/admob/unity/privacy/play-data-disclosure
+
+You can also contact us by email if you have any questions:
+1bitwaffleyt@gmail.com
+
+
+Thanks for playing Candledrop! We are small independent developers who have put a lot of our free time into making
+this project a reality. It means a lot that you are playing our game, so thanks again!
